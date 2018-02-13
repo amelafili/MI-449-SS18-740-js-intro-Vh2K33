@@ -7,3 +7,8 @@ var buttonElement = document.getElementById('button-clap')
   buttonElement.addEventListener('click', function () {
   console.log('I was clicked!')
 })
+
+var buttonElement = document.getElementById('button-boom')
+  buttonElement.addEventListener('click', function () {
+  console.log('I was clicked!')
+})
